@@ -1,0 +1,30 @@
+<aura:component implements="lightning:availableForFlowScreens" access="global">
+<div class="slds-clearfix slds-illustration slds-illustration_small visual-area-positions--closer-to-top visual-area-positions--left-half" dropzone="div">
+    <div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top"><img class="slds-m-bottom_small" src="https://media.elcompanies.com/images/e/estee-lauder-companies/universal/our-brands/origins/content-images/pxserum_3_2018.jpg" style="width: 300px; height: auto;"/>
+            </div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-text-heading_medium">Recommended Product</div>
+            <div class="slds-text-heading_medium">Sustainability Icons ❤ ★ ✿ </div>
+    	</div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-m-top_x-small" style="font-size: 0.8125rem;"><span>
+                <div>Plantscription Anti-aging Power</div>
+                <div>Origins</div>
+                <div>This power serum helps reduce the appearance of wrinkles with a cocktail of anti-aging plant extracts including Anogeissus from Ghana.</div>
+                </span><br/></div>
+    	</div>
+        <div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top"><img class="slds-m-bottom_small" src="https://media.elcompanies.com/images/e/estee-lauder-companies/universal/our-brands/mac/content-images/mac-studiofix-514x643-72.jpg" style="width: 300px; height: auto;"/>
+            </div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-text-heading_medium">Recommended Product</div>
+            <div class="slds-text-heading_medium">Sustainability Icons ☘ ☮ ♻ ⚕</div>
+    	</div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-m-top_x-small" style="font-size: 0.8125rem;"><span>
+                <div>Studio Fix Fluid SPF 15</div>
+                <div>M.A.C</div>
+                <div>A modern foundation that combines a natural matte finish and medium to full coverage with broad-spectrum UVA/UVB SPF 15/PA++ protection.</div>
+                </span><br/></div>
+    	</div>
+</div>
+</aura:component>

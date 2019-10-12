@@ -1,0 +1,20 @@
+<aura:component implements="lightning:availableForFlowScreens" access="global">
+<div class="slds-clearfix slds-illustration slds-illustration_small visual-area-positions--closer-to-top visual-area-positions--left-half" dropzone="div">
+    <div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top"><img class="slds-m-bottom_small" src="https://media.elcompanies.com/images/e/estee-lauder-companies/universal/our-brands/origins/content-images/pxserum_3_2018.jpg" style="width: 300px; height: auto;"/>
+            </div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-text-heading_medium">Price $80</div>
+               	<div class="slds-text-heading_medium">Tax $7.50</div>
+            <div class="slds-text-heading_medium">Donations: $.50</div>
+        	<div class="slds-text-heading_medium">Matched: $.50</div>
+            <div class="slds-text-heading_medium">Total: $88</div>
+            <div class="slds-text-heading_medium">Bottles Collected: 4</div>
+    	</div>
+    	<div class="visual-area-positions--left-half" closertotopclass="project-canvas-element--closer-to-top">
+        	<div class="slds-m-top_x-small" style="font-size: 0.8125rem;"><span>
+                <div>Plantscription Anti-aging Power</div>
+                <div>Origins</div>
+                </span><br/></div>
+    	</div>
+</div>	
+</aura:component>
